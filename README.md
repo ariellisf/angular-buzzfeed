@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-![ANGULAR-BUZZFEED](../angular-buzzfeed/src/assets/img/banner.png "Angular-Buzzfeed")
+![ANGULAR-BUZZFEED](/src/assets/img/banner.png "Angular-Buzzfeed")
