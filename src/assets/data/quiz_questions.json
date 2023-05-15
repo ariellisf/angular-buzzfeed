@@ -5,7 +5,7 @@
         "id":1,
         "question": "Escolha uma qualidade que você tenha:",
         "options":[
-          {"id": 1, "name":"Coragem", "alias":"A"},
+          {"id": 1, "name":"Coragem ", "alias":"A"},
           {"id": 2, "name":"Honestidade", "alias":"B"},
           {"id": 3, "name":"Inteligência", "alias":"C"},
           {"id": 4, "name":"Ser competitivo", "alias":"D"}
@@ -54,10 +54,10 @@
       }
     ],
     "results":{
-      "A": "Você muito provavelmente seria da casa Grifinória!",
-      "B": "Você muito provavelmente seria da casa Lufa-Lufa!",
-      "C": "Você muito provavelmente seria da casa Corvinal!",
-      "D": "Você muito provavelmente seria da casa Sonserina!"
+      "A": "GRIFINÓRIA: A Casa valoriza feitos de coragem e superação pessoal que costumam ser realizados por altruísmo. Seus estudantes tendem a ser bastante aventureiros, mas se destacam, sobretudo, pela lealdade.",
+      "B": "LUFA-LUFA: Os estudantes da Lufa-Lufa são dedicados, pacientes e honestos. Suas admiráveis características os tornam trabalhadores árduos e modestos, sendo receptivos a todos os demais tipos de bruxos. ",
+      "C": "CORVINAL: Os bruxos pertencentes à Corvinal se destacam por sua exímia inteligência. Nesse contexto, suas principais características são relacionadas a sabedoria, criatividade e personalidade única, o que garante a eles certa excentricidade.",
+      "D": "SONSERINA: Os membros da Sonserina têm como características, sobretudo, a ambição e a busca pela grandeza, por isso estão sempre se dedicando a alcançar e expandir metas e se empenhando com inteligência em diversas áreas da magia. "
 
     }
   }

@@ -1,7 +1,9 @@
 <div class="container__quiz">
-    <div class="quiz__logo">
-        <img src="../../../assets/img/logo.png" alt="">
+    <div *ngIf="!finished" class="quiz__logo">
+        <img src="../../../assets/img/logo.png">
         <h3>{{title}}</h3>
+
+        <img src="https://lh3.googleusercontent.com/-ctRMA5Q3JUs/ZAiHS4yAhdI/AAAAAAAANaw/v6300-BfDeMn94f1FN6muLamsCCaOj6OgCNcBGAsYHQ/s1600/1678280520684411-0.png" alt="">
     </div>
 
     <div *ngIf="!finished" class="quiz__questions">
@@ -19,6 +21,8 @@
     </div>
 
     <div *ngIf="finished" class="quiz__results">
+        <img src="../../../assets/img/logo.png">
+        <img src="https://static.quizur.com/i/b/591af6566235a8.98014595Sorting-Hat.jpg" class="quiz__results-img-hat">
         <h1>O seu resultado é:</h1>
         <p>{{answerSelected}}</p>
     </div>
